@@ -1,0 +1,55 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=KF? NewDesignator=KF1
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=st_out3 Pin=U3-2
+Added Pin To Net: NetName=st_out2 Pin=U3-3
+Added Pin To Net: NetName=st_out1 Pin=U3-4
+Added Pin To Net: NetName=3V3 Pin=U3-9
+Added Pin To Net: NetName=EN_A Pin=U3-11
+Added Pin To Net: NetName=EN_B Pin=U3-12
+Added Pin To Net: NetName=st_in1 Pin=U3-13
+Added Pin To Net: NetName=st_in2 Pin=U3-14
+Added Pin To Net: NetName=st_in3 Pin=U3-15
+Added Pin To Net: NetName=st_in4 Pin=U3-16
+Added Pin To Net: NetName=st_in5 Pin=U3-17
+Added Pin To Net: NetName=st_in6 Pin=U3-18
+Added Pin To Net: NetName=st_in7 Pin=U3-19
+Added Pin To Net: NetName=st_in8 Pin=U3-20
+Added Pin To Net: NetName=st_in9 Pin=U3-21
+Added Pin To Net: NetName=st_in10 Pin=U3-22
+Added Pin To Net: NetName=3V3 Pin=U3-24
+Added Pin To Net: NetName=st_in11 Pin=U3-25
+Added Pin To Net: NetName=st_in12 Pin=U3-26
+Added Pin To Net: NetName=st_in13 Pin=U3-27
+Added Pin To Net: NetName=st_in14 Pin=U3-28
+Added Pin To Net: NetName=st_out14 Pin=U3-31
+Added Pin To Net: NetName=st_out13 Pin=U3-32
+Added Pin To Net: NetName=st_out12 Pin=U3-33
+Added Pin To Net: NetName=3V3 Pin=U3-36
+Added Pin To Net: NetName=st_out11 Pin=U3-38
+Added Pin To Net: NetName=st_out10 Pin=U3-39
+Added Pin To Net: NetName=st_out9 Pin=U3-40
+Added Pin To Net: NetName=st_out8 Pin=U3-41
+Added Pin To Net: NetName=st_out7 Pin=U3-42
+Added Pin To Net: NetName=st_out6 Pin=U3-43
+Added Pin To Net: NetName=st_out5 Pin=U3-45
+Added Pin To Net: NetName=st_out4 Pin=U3-46
+Added Pin To Net: NetName=3V3 Pin=U3-48
+Change Net Name : Old Net Name=NetBT?_2 New Net Name=NetBT1_2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR11_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-6
+Added Pin To Net: NetName=NetC7_1 Pin=Y1-1
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=board Member=Component C6 22pF
+Added Member To Class: ClassName=board Member=Component C7 22pF
+Added Member To Class: ClassName=board Member=Component R12 10k
+Added Room: Name=board

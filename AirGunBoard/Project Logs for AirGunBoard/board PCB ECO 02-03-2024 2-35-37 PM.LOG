@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=GND_33 Pin=BT1-1
+Removed Pin From Net: NetName=GND_33 Pin=BT1-1
+Removed Pin From Net: NetName=GND_33 Pin=C6-2
+Removed Pin From Net: NetName=GND_33 Pin=C7-2
+Removed Pin From Net: NetName=GND_33 Pin=C8-2
+Removed Pin From Net: NetName=GND_33 Pin=R11-2
+Removed Pin From Net: NetName=3V3 Pin=R12-2
+Removed Pin From Net: NetName=3V3 Pin=U3-1
+Removed Pin From Net: NetName=GND_33 Pin=U3-8
+Removed Pin From Net: NetName=3V3 Pin=U3-9
+Removed Pin From Net: NetName=st_in1 Pin=U3-15
+Removed Pin From Net: NetName=st_in2 Pin=U3-16
+Removed Pin From Net: NetName=st_in3 Pin=U3-17
+Removed Pin From Net: NetName=GND_33 Pin=U3-23
+Removed Pin From Net: NetName=3V3 Pin=U3-24
+Removed Pin From Net: NetName=SWDIO Pin=U3-34
+Removed Pin From Net: NetName=GND_33 Pin=U3-35
+Removed Pin From Net: NetName=3V3 Pin=U3-36
+Removed Pin From Net: NetName=SWCLK Pin=U3-37
+Removed Pin From Net: NetName=GND_33 Pin=U3-47
+Removed Pin From Net: NetName=3V3 Pin=U3-48
+Removed Member From Class: ClassName=board Member=BT1
+Removed Member From Class: ClassName=board Member=C6
+Removed Member From Class: ClassName=board Member=C7
+Removed Member From Class: ClassName=board Member=C8
+Removed Member From Class: ClassName=board Member=R11
+Removed Member From Class: ClassName=board Member=R12
+Removed Member From Class: ClassName=board Member=Y1
+Added Component: Designator=BT?(Nut Nhan 4 Chan Cam 6x6)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004584"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu tantalum dip5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 105-1uF DIP5.08 s? vàng"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 22P 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 22P 50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP-48_19.6_393_58X11_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(Thach Anh 2 chan cam)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_33 Pin=BT?-1
+Added Pin To Net: NetName=GND_33 Pin=BT?-1
+Added Pin To Net: NetName=GND_33 Pin=C?-2
+Added Pin To Net: NetName=GND_33 Pin=C?-2
+Added Pin To Net: NetName=GND_33 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=GND_33 Pin=R?-2
+Added Pin To Net: NetName=GND_33 Pin=U?-8
+Added Pin To Net: NetName=GND_33 Pin=U?-23
+Added Pin To Net: NetName=SWDIO Pin=U?-34
+Added Pin To Net: NetName=GND_33 Pin=U?-35
+Added Pin To Net: NetName=SWCLK Pin=U?-37
+Added Pin To Net: NetName=GND_33 Pin=U?-47
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_2 Pin=C?-1
+Added Pin To Net: NetName=NetBT?_2 Pin=R?-1
+Added Pin To Net: NetName=NetBT?_2 Pin=U?-7
+Added Net: Name=NetBT?_2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-5
+Added Pin To Net: NetName=NetC?_1 Pin=Y?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-44
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=board Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=board Member=Component C? 1uF
+Added Member To Class: ClassName=board Member=Component C? 22pF
+Added Member To Class: ClassName=board Member=Component C? 22pF
+Added Member To Class: ClassName=board Member=Component R? 10k
+Added Member To Class: ClassName=board Member=Component R? 10k
+Added Member To Class: ClassName=board Member=Component U? STM32F103C8T6
+Added Member To Class: ClassName=board Member=Component Y? 8Mhz

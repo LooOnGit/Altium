@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=K? NewDesignator=K15
+Added Member To Class: ClassName=board Member=Component K15 Domino
+Added Room: Name=board

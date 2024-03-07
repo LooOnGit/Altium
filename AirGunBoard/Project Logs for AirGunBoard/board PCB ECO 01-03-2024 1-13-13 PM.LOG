@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND_24 Pin=K2-1
+Removed Pin From Net: NetName=GND_24 Pin=K2-2
+Removed Pin From Net: NetName=OUT1 Pin=K2-3
+Removed Pin From Net: NetName=OUT2 Pin=K2-4
+Removed Pin From Net: NetName=GND_24 Pin=K3-1
+Removed Pin From Net: NetName=GND_24 Pin=K3-2
+Removed Pin From Net: NetName=OUT3 Pin=K3-3
+Removed Pin From Net: NetName=OUT4 Pin=K3-4
+Removed Pin From Net: NetName=GND_24 Pin=K4-1
+Removed Pin From Net: NetName=GND_24 Pin=K4-2
+Removed Pin From Net: NetName=OUT5 Pin=K4-3
+Removed Pin From Net: NetName=OUT6 Pin=K4-4
+Removed Pin From Net: NetName=GND_24 Pin=K5-1
+Removed Pin From Net: NetName=GND_24 Pin=K5-2
+Removed Pin From Net: NetName=OUT7 Pin=K5-3
+Removed Pin From Net: NetName=OUT8 Pin=K5-4
+Removed Pin From Net: NetName=GND_24 Pin=K6-1
+Removed Pin From Net: NetName=GND_24 Pin=K6-2
+Removed Pin From Net: NetName=OUT9 Pin=K6-3
+Removed Pin From Net: NetName=OUT10 Pin=K6-4
+Removed Pin From Net: NetName=GND_24 Pin=K7-1
+Removed Pin From Net: NetName=GND_24 Pin=K7-2
+Removed Pin From Net: NetName=OUT11 Pin=K7-3
+Removed Pin From Net: NetName=OUT12 Pin=K7-4
+Removed Pin From Net: NetName=GND_24 Pin=K8-1
+Removed Pin From Net: NetName=GND_24 Pin=K8-2
+Removed Pin From Net: NetName=OUT13 Pin=K8-3
+Removed Pin From Net: NetName=OUT14 Pin=K8-4
+Removed Member From Class: ClassName=board Member=K2
+Removed Member From Class: ClassName=board Member=K3
+Removed Member From Class: ClassName=board Member=K4
+Removed Member From Class: ClassName=board Member=K5
+Removed Member From Class: ClassName=board Member=K6
+Removed Member From Class: ClassName=board Member=K7
+Removed Member From Class: ClassName=board Member=K8
+Added Component: Designator=K?(KF128HL_2P)
+Added Component: Designator=K?(KF128HL_2P)
+Added Component: Designator=K?(KF128HL_2P)
+Added Component: Designator=K?(KF128HL_2P)
+Added Component: Designator=K?(KF128HL_2P)
+Added Component: Designator=K?(KF128HL_2P)
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-1
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=OUT1 Pin=K?-3
+Added Pin To Net: NetName=OUT3 Pin=K?-3
+Added Pin To Net: NetName=OUT5 Pin=K?-3
+Added Pin To Net: NetName=OUT7 Pin=K?-3
+Added Pin To Net: NetName=OUT9 Pin=K?-3
+Added Pin To Net: NetName=OUT11 Pin=K?-3
+Added Pin To Net: NetName=OUT13 Pin=K?-3
+Added Pin To Net: NetName=OUT2 Pin=K?-4
+Added Pin To Net: NetName=OUT4 Pin=K?-4
+Added Pin To Net: NetName=OUT6 Pin=K?-4
+Added Pin To Net: NetName=OUT8 Pin=K?-4
+Added Pin To Net: NetName=OUT10 Pin=K?-4
+Added Pin To Net: NetName=OUT12 Pin=K?-4
+Added Pin To Net: NetName=OUT14 Pin=K?-4
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Member To Class: ClassName=board Member=Component K? Domino

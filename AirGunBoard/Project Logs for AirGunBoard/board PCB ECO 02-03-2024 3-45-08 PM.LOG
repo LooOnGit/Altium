@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R4 Old Footprint=tro smd 0805 New Footprint=tro vach 1/4w
+Change component parameters: Designator = "R4" ("R4"); Footprint = "tro smd 0805"; UniqueID = "\KGFAIQDH" ("\KGFAIQDH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007352"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 100k"; VariantName = "[No Variations]"
+Added Room: Name=board

@@ -1,0 +1,84 @@
+Added Component: Designator=K2(KF128HL_2P)
+Added Component: Designator=K3(KF128HL_2P)
+Added Component: Designator=K4(KF128HL_2P)
+Added Component: Designator=K5(KF128HL_2P)
+Added Component: Designator=K6(KF128HL_2P)
+Added Component: Designator=K7(KF128HL_2P)
+Added Component: Designator=K8(KF128HL_2P)
+Added Component: Designator=K9(KF128HL_2P)
+Added Component: Designator=K10(KF128HL_2P)
+Added Component: Designator=K11(KF128HL_2P)
+Added Component: Designator=K12(KF128HL_2P)
+Added Component: Designator=K13(KF128HL_2P)
+Added Component: Designator=K14(KF128HL_2P)
+Added Component: Designator=K15(KF128HL_2P)
+Added Pin To Net: NetName=GND_24 Pin=K2-1
+Added Pin To Net: NetName=GND_24 Pin=K2-2
+Added Pin To Net: NetName=OUT1 Pin=K2-3
+Added Pin To Net: NetName=OUT2 Pin=K2-4
+Added Pin To Net: NetName=GND_24 Pin=K3-1
+Added Pin To Net: NetName=GND_24 Pin=K3-2
+Added Pin To Net: NetName=OUT3 Pin=K3-3
+Added Pin To Net: NetName=OUT4 Pin=K3-4
+Added Pin To Net: NetName=GND_24 Pin=K4-1
+Added Pin To Net: NetName=GND_24 Pin=K4-2
+Added Pin To Net: NetName=OUT5 Pin=K4-3
+Added Pin To Net: NetName=OUT6 Pin=K4-4
+Added Pin To Net: NetName=GND_24 Pin=K5-1
+Added Pin To Net: NetName=GND_24 Pin=K5-2
+Added Pin To Net: NetName=OUT7 Pin=K5-3
+Added Pin To Net: NetName=OUT8 Pin=K5-4
+Added Pin To Net: NetName=GND_24 Pin=K6-1
+Added Pin To Net: NetName=GND_24 Pin=K6-2
+Added Pin To Net: NetName=OUT9 Pin=K6-3
+Added Pin To Net: NetName=OUT10 Pin=K6-4
+Added Pin To Net: NetName=GND_24 Pin=K7-1
+Added Pin To Net: NetName=GND_24 Pin=K7-2
+Added Pin To Net: NetName=OUT11 Pin=K7-3
+Added Pin To Net: NetName=OUT12 Pin=K7-4
+Added Pin To Net: NetName=24V_IN Pin=K8-1
+Added Pin To Net: NetName=GND_24 Pin=K8-2
+Added Pin To Net: NetName=IN1 Pin=K8-3
+Added Pin To Net: NetName=IN2 Pin=K8-4
+Added Pin To Net: NetName=24V_IN Pin=K9-1
+Added Pin To Net: NetName=GND_24 Pin=K9-2
+Added Pin To Net: NetName=IN3 Pin=K9-3
+Added Pin To Net: NetName=IN4 Pin=K9-4
+Added Pin To Net: NetName=24V_IN Pin=K10-1
+Added Pin To Net: NetName=GND_24 Pin=K10-2
+Added Pin To Net: NetName=IN5 Pin=K10-3
+Added Pin To Net: NetName=IN6 Pin=K10-4
+Added Pin To Net: NetName=24V_IN Pin=K11-1
+Added Pin To Net: NetName=GND_24 Pin=K11-2
+Added Pin To Net: NetName=IN7 Pin=K11-3
+Added Pin To Net: NetName=IN8 Pin=K11-4
+Added Pin To Net: NetName=24V_IN Pin=K12-1
+Added Pin To Net: NetName=GND_24 Pin=K12-2
+Added Pin To Net: NetName=IN9 Pin=K12-3
+Added Pin To Net: NetName=IN10 Pin=K12-4
+Added Pin To Net: NetName=24V_IN Pin=K13-1
+Added Pin To Net: NetName=GND_24 Pin=K13-2
+Added Pin To Net: NetName=IN11 Pin=K13-3
+Added Pin To Net: NetName=IN12 Pin=K13-4
+Added Pin To Net: NetName=24V_IN Pin=K14-1
+Added Pin To Net: NetName=GND_24 Pin=K14-2
+Added Pin To Net: NetName=IN13 Pin=K14-3
+Added Pin To Net: NetName=IN14 Pin=K14-4
+Added Pin To Net: NetName=GND_24 Pin=K15-1
+Added Pin To Net: NetName=GND_24 Pin=K15-2
+Added Pin To Net: NetName=OUT13 Pin=K15-3
+Added Pin To Net: NetName=OUT14 Pin=K15-4
+Added Member To Class: ClassName=board Member=Component K2 Domino
+Added Member To Class: ClassName=board Member=Component K3 Domino
+Added Member To Class: ClassName=board Member=Component K4 Domino
+Added Member To Class: ClassName=board Member=Component K5 Domino
+Added Member To Class: ClassName=board Member=Component K6 Domino
+Added Member To Class: ClassName=board Member=Component K7 Domino
+Added Member To Class: ClassName=board Member=Component K8 Domino
+Added Member To Class: ClassName=board Member=Component K9 Domino
+Added Member To Class: ClassName=board Member=Component K10 Domino
+Added Member To Class: ClassName=board Member=Component K11 Domino
+Added Member To Class: ClassName=board Member=Component K12 Domino
+Added Member To Class: ClassName=board Member=Component K13 Domino
+Added Member To Class: ClassName=board Member=Component K14 Domino
+Added Member To Class: ClassName=board Member=Component K15 Domino
