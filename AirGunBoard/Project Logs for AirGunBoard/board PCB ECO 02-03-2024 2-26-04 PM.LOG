@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND_33 Pin=BT1-1
+Removed Pin From Net: NetName=GND_33 Pin=BT1-1
+Removed Pin From Net: NetName=GND_33 Pin=C6-2
+Removed Pin From Net: NetName=GND_33 Pin=C7-2
+Removed Pin From Net: NetName=GND_33 Pin=C8-2
+Removed Pin From Net: NetName=GND_24 Pin=C11-1
+Removed Pin From Net: NetName=24V_OUT Pin=C11-2
+Removed Pin From Net: NetName=24V_IN Pin=C11-3
+Removed Pin From Net: NetName=GND_33 Pin=R11-2
+Removed Pin From Net: NetName=3V3 Pin=R12-2
+Removed Pin From Net: NetName=3V3 Pin=U3-1
+Removed Pin From Net: NetName=GND_33 Pin=U3-8
+Removed Pin From Net: NetName=3V3 Pin=U3-9
+Removed Pin From Net: NetName=GND_33 Pin=U3-23
+Removed Pin From Net: NetName=3V3 Pin=U3-24
+Removed Pin From Net: NetName=SWDIO Pin=U3-34
+Removed Pin From Net: NetName=GND_33 Pin=U3-35
+Removed Pin From Net: NetName=3V3 Pin=U3-36
+Removed Pin From Net: NetName=SWCLK Pin=U3-37
+Removed Pin From Net: NetName=GND_33 Pin=U3-47
+Removed Pin From Net: NetName=3V3 Pin=U3-48
+Removed Member From Class: ClassName=board Member=BT1
+Removed Member From Class: ClassName=board Member=C6
+Removed Member From Class: ClassName=board Member=C7
+Removed Member From Class: ClassName=board Member=C8
+Removed Member From Class: ClassName=board Member=C11
+Removed Member From Class: ClassName=board Member=R11
+Removed Member From Class: ClassName=board Member=R12
+Removed Member From Class: ClassName=board Member=U3
+Removed Member From Class: ClassName=board Member=Y1
+Added Component: Designator=KF?(DOMINO_3)
+Added Component: Designator=U?(LQFP-48_19.6_393_58X11_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_24 Pin=KF?-1
+Added Pin To Net: NetName=24V_OUT Pin=KF?-2
+Added Pin To Net: NetName=24V_IN Pin=KF?-3
+Added Pin To Net: NetName=SWDIO Pin=U?-34
+Added Pin To Net: NetName=SWCLK Pin=U?-37
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=GND Pin=U?-35
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Net: Name=GND
+Added Member To Class: ClassName=board Member=Component KF? Domino_3
+Added Member To Class: ClassName=board Member=Component U? STM32F103C8T6

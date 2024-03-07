@@ -1,0 +1,13 @@
+Added Component: Designator=K?(KF128HL_2P)
+Added Component: Designator=K?(KF128HL_2P)
+Added Pin To Net: NetName=24V_IN Pin=K?-1
+Added Pin To Net: NetName=A Pin=K?-1
+Added Pin To Net: NetName=B Pin=K?-2
+Added Pin To Net: NetName=GND_24 Pin=K?-2
+Added Pin To Net: NetName=5V Pin=K?-3
+Added Pin To Net: NetName=IN13 Pin=K?-3
+Added Pin To Net: NetName=GND33 Pin=K?-4
+Added Pin To Net: NetName=IN14 Pin=K?-4
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Member To Class: ClassName=board Member=Component K? Domino
+Added Room: Name=board

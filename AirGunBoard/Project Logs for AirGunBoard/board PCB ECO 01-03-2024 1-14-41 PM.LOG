@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=K? NewDesignator=K2
+Change Component Designator: OldDesignator=K? NewDesignator=K3
+Change Component Designator: OldDesignator=K? NewDesignator=K4
+Change Component Designator: OldDesignator=K? NewDesignator=K5
+Change Component Designator: OldDesignator=K? NewDesignator=K6
+Change Component Designator: OldDesignator=K? NewDesignator=K7
+Change Component Designator: OldDesignator=K? NewDesignator=K8
+Change Component Designator: OldDesignator=K? NewDesignator=K9
+Change Component Designator: OldDesignator=K? NewDesignator=K10
+Change Component Designator: OldDesignator=K? NewDesignator=K11
+Change Component Designator: OldDesignator=K? NewDesignator=K12
+Change Component Designator: OldDesignator=K? NewDesignator=K13
+Change Component Designator: OldDesignator=K? NewDesignator=K14
+Added Member To Class: ClassName=board Member=Component K2 Domino
+Added Member To Class: ClassName=board Member=Component K3 Domino
+Added Member To Class: ClassName=board Member=Component K4 Domino
+Added Member To Class: ClassName=board Member=Component K5 Domino
+Added Member To Class: ClassName=board Member=Component K6 Domino
+Added Member To Class: ClassName=board Member=Component K7 Domino
+Added Member To Class: ClassName=board Member=Component K9 Domino
+Added Member To Class: ClassName=board Member=Component K10 Domino
+Added Member To Class: ClassName=board Member=Component K11 Domino
+Added Member To Class: ClassName=board Member=Component K12 Domino
+Added Member To Class: ClassName=board Member=Component K13 Domino
+Added Member To Class: ClassName=board Member=Component K14 Domino
+Added Room: Name=board

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=A Pin=C9-1
+Removed Pin From Net: NetName=B Pin=C14-1
+Removed Pin From Net: NetName=EN_A Pin=R7-1
+Removed Pin From Net: NetName=A Pin=R7-2
+Removed Pin From Net: NetName=EN_B Pin=R8-1
+Removed Pin From Net: NetName=B Pin=R8-2
+Change Component Footprint: Designator=R7 Old Footprint=tro smd 0805 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R8 Old Footprint=tro smd 0805 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=C9 Old Footprint=tu 1206 New Footprint=tu gom
+Change Component Footprint: Designator=C14 Old Footprint=tu 1206 New Footprint=tu gom
+Change component parameters: Designator = "C9" ("C9"); Footprint = "tu 1206"; UniqueID = "\BKLBONQI" ("\BKLBONQI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "tu 1206"; UniqueID = "\IKSZCBFF" ("\IKSZCBFF")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "tro smd 0805"; UniqueID = "\QRTYGWYP" ("\QRTYGWYP")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "tro smd 0805"; UniqueID = "\RMHQOOZY" ("\RMHQOOZY")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B Pin=C9-1
+Added Pin To Net: NetName=A Pin=C14-1
+Added Pin To Net: NetName=A Pin=R7-1
+Added Pin To Net: NetName=EN_A Pin=R7-2
+Added Pin To Net: NetName=B Pin=R8-1
+Added Pin To Net: NetName=EN_B Pin=R8-2
+Added Room: Name=board
