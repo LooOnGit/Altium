@@ -1,0 +1,6 @@
+PCB Order
+
+Green
+1.6mm
+HSAL
+PCB Demension: 60.3*80mm
