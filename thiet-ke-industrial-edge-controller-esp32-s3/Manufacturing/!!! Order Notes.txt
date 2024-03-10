@@ -1,0 +1,7 @@
+Released files: 28-11-2023
+
+1. PCB 4 layer (L1,GND,PWR,L4)
+2. Demension:70*61.8mm
+3. PCB Thinkness: 1.6mm
+4. PCB Color: Green
+5. Remove Order Number: Specify Location 
