@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=+5V_EXT Pin=*2-1
+Removed Pin From Net: NetName=Net*3_1 Pin=*3-1
+Removed Pin From Net: NetName=VDD_TARGET_IC Pin=*4-2
+Removed Pin From Net: NetName=WR Pin=*7-9
+Removed Pin From Net: NetName=GND Pin=B2-11
+Removed Pin From Net: NetName=GND Pin=B11-2
+Removed Pin From Net: NetName=+5V Pin=B11-3
+Removed Pin From Net: NetName=CAN_LOW Pin=B11-6
+Removed Pin From Net: NetName=CAN_HIGH Pin=B11-7
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=VDD_TARGET Pin=J10-1
+Removed Pin From Net: NetName=PIN_P10 Pin=JP2-18
+Removed Pin From Net: NetName=+5V_EXT Pin=ON/OFF1-1
+Removed Member From Class: ClassName=CAN_DEVELOP Member=*5
+Removed Member From Class: ClassName=CAN_DEVELOP Member=*6
+Removed Member From Class: ClassName=CAN_DEVELOP Member=*7
+Removed Member From Class: ClassName=CAN_DEVELOP Member=J7
+Removed Member From Class: ClassName=CAN_DEVELOP Member=J8
+Removed Member From Class: ClassName=CAN_DEVELOP Member=J12
+Change Component Designator: OldDesignator=*5 NewDesignator=*2
+Change Component Designator: OldDesignator=*6 NewDesignator=*3
+Change Component Designator: OldDesignator=*7 NewDesignator=*4
+Change Component Designator: OldDesignator=B10 NewDesignator=B11
+Change Component Designator: OldDesignator=B12 NewDesignator=B13
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C12 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=C20 NewDesignator=C?
+Change Component Designator: OldDesignator=C21 NewDesignator=C?
+Change Component Designator: OldDesignator=C28 NewDesignator=C?
+Change Component Designator: OldDesignator=C29 NewDesignator=C?
+Change Component Designator: OldDesignator=C30 NewDesignator=C?
+Change Component Designator: OldDesignator=C31 NewDesignator=C?
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J12 NewDesignator=J11
+Change Component Designator: OldDesignator=R12 NewDesignator=R?
+Change Component Designator: OldDesignator=R50 NewDesignator=R57
+Change Net Name : Old Net Name=Net*3_1 New Net Name=NetC32_1
+Change Net Name : Old Net Name=NetB10_10 New Net Name=NetB11_10
+Change Net Name : Old Net Name=NetB12_10 New Net Name=NetB13_10
+Added Pin To Net: NetName=NetB11_13 Pin=B11-13
+Added Net: Name=NetB11_13
+Added Pin To Net: NetName=NetB11_14 Pin=B11-14
+Added Net: Name=NetB11_14
+Added Pin To Net: NetName=NetB11_15 Pin=B11-15
+Added Net: Name=NetB11_15
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetFB1_1 Pin=ON/OFF1-1
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetFB2_2 Pin=R16-1
+Added Net: Name=NetFB2_2
+Added Pin To Net: NetName=PIN_M10 Pin=B7-M10
+Added Net: Name=PIN_M10
+Added Pin To Net: NetName=PIN_M11 Pin=B7-M11
+Added Net: Name=PIN_M11
+Added Pin To Net: NetName=PIN_M12 Pin=B7-M12
+Added Net: Name=PIN_M12
+Added Pin To Net: NetName=PIN_P8 Pin=B7-P8
+Added Net: Name=PIN_P8
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component B13 TXS0108EPWRG4

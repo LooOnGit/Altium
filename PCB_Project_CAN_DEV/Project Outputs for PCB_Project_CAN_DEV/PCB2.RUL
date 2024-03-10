@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\HIEU\Downloads\New folder\PCB_Project_CAN_DEV\PCB2.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=4.72
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

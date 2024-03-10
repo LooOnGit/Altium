@@ -1,0 +1,50 @@
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change Component Designator: OldDesignator=J11 NewDesignator=J9
+Change Component Designator: OldDesignator=R57 NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Added Component: Designator=B12(TJA1050)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/docs/en/data-sheet/TJA1050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TJA1050T/CM,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-TJA1050T/CM118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/TJA1050T-CM118?qs=5XOdhvmYM0NFFspw0VP5sA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB11_14 Pin=B12-1
+Added Pin To Net: NetName=GND Pin=B12-2
+Added Pin To Net: NetName=+5V Pin=B12-3
+Added Pin To Net: NetName=NetB11_13 Pin=B12-4
+Added Pin To Net: NetName=CAN_LOW Pin=B12-6
+Added Pin To Net: NetName=CAN_HIGH Pin=B12-7
+Added Pin To Net: NetName=NetB11_15 Pin=B12-8
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component *2 DB9
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component *3 OLED_I2C
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component *4 W77q128
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component B11 TXS0108EPWRG4
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component B12 TJA1050T_CM_118
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C10 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C11 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C12 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C18 470pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C19 1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C20 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C21 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C29 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C30 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C31 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C37 4.7uF 10V
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component J8 USB0 OF ETH (OK)
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component J9 Connector 3x2
