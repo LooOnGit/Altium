@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=3V3 Pin=R18-1
+Removed Pin From Net: NetName=3V3 Pin=R20-1
+Removed Pin From Net: NetName=3V3 Pin=R32-1
+Removed Pin From Net: NetName=3V3 Pin=R34-1
+Removed Pin From Net: NetName=3V3 Pin=R36-1
+Removed Pin From Net: NetName=3V3 Pin=R47-1
+Removed Pin From Net: NetName=3V3 Pin=R49-1
+Removed Pin From Net: NetName=3V3 Pin=R59-1
+Removed Pin From Net: NetName=3V3 Pin=R61-1
+Removed Pin From Net: NetName=3V3 Pin=R75-1
+Removed Pin From Net: NetName=3V3 Pin=R77-1
+Removed Pin From Net: NetName=3V3 Pin=R87-1
+Removed Pin From Net: NetName=3V3 Pin=R89-1
+Removed Member From Class: ClassName=schematic Member=R18
+Removed Member From Class: ClassName=schematic Member=R20
+Removed Member From Class: ClassName=schematic Member=R32
+Removed Member From Class: ClassName=schematic Member=R34
+Removed Member From Class: ClassName=schematic Member=R36
+Removed Member From Class: ClassName=schematic Member=R47
+Removed Member From Class: ClassName=schematic Member=R49
+Removed Member From Class: ClassName=schematic Member=R59
+Removed Member From Class: ClassName=schematic Member=R61
+Removed Member From Class: ClassName=schematic Member=R75
+Removed Member From Class: ClassName=schematic Member=R77
+Removed Member From Class: ClassName=schematic Member=R87
+Removed Member From Class: ClassName=schematic Member=R89
+Change Component Footprint: Designator=R16 Old Footprint=tro smd 1206 New Footprint=resistor_bar
+Change Component Comment : Designator=R9 Old Comment=1kOhm New Comment=100kOhm
+Change Component Comment : Designator=R10 Old Comment=1kOhm New Comment=100kOhm
+Change Component Comment : Designator=R16 Old Comment=470R New Comment=470Ohm
+Change component parameters: Designator = "R16" ("R16"); Footprint = "tro smd 1206"; UniqueID = "\PVXUDOWO" ("\PVXUDOWO")
+Added Component: Designator=R13(resistor_bar)
+Added Pin To Net: NetName=3V3 Pin=R13-1
+Added Pin To Net: NetName=470R1 Pin=R13-2
+Added Pin To Net: NetName=470R1 Pin=U4-1
+Added Net: Name=470R1
+Added Pin To Net: NetName=470R2 Pin=R13-3
+Added Pin To Net: NetName=470R2 Pin=U9-1
+Added Net: Name=470R2
+Added Pin To Net: NetName=470R3 Pin=R13-4
+Added Pin To Net: NetName=470R3 Pin=U14-1
+Added Net: Name=470R3
+Added Pin To Net: NetName=470R4 Pin=R13-5
+Added Pin To Net: NetName=470R4 Pin=U18-1
+Added Net: Name=470R4
+Added Pin To Net: NetName=470R5 Pin=R13-6
+Added Pin To Net: NetName=470R5 Pin=U24-1
+Added Net: Name=470R5
+Added Pin To Net: NetName=470R6 Pin=R13-7
+Added Pin To Net: NetName=470R6 Pin=U28-1
+Added Net: Name=470R6
+Added Pin To Net: NetName=470R7 Pin=R13-8
+Added Pin To Net: NetName=470R7 Pin=U5-1
+Added Net: Name=470R7
+Added Pin To Net: NetName=470R8 Pin=R16-2
+Added Pin To Net: NetName=470R8 Pin=U10-1
+Added Net: Name=470R8
+Added Pin To Net: NetName=470R9 Pin=R16-3
+Added Pin To Net: NetName=470R9 Pin=U15-1
+Added Net: Name=470R9
+Added Pin To Net: NetName=470R10 Pin=R16-4
+Added Pin To Net: NetName=470R10 Pin=U19-1
+Added Net: Name=470R10
+Added Pin To Net: NetName=470R11 Pin=R16-5
+Added Pin To Net: NetName=470R11 Pin=U25-1
+Added Net: Name=470R11
+Added Pin To Net: NetName=470R12 Pin=R16-6
+Added Pin To Net: NetName=470R12 Pin=U29-1
+Added Net: Name=470R12
+Added Pin To Net: NetName=470R13 Pin=R16-7
+Added Net: Name=470R13
+Added Pin To Net: NetName=470R14 Pin=R16-8
+Added Net: Name=470R14
+Added Member To Class: ClassName=schematic Member=Component R13 470Ohm
+Added Room: Name=schematic
