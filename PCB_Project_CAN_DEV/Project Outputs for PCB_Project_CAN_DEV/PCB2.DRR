@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB2.PcbDoc   7/26/2023  11:52:04 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB2-RoundHoles.TXT
+ASCII SlotHoles File : PCB2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             241       PTH        0.00inch (0.00mm)
+T2      10mil (0.249mm)                                           Round             66        PTH        0.00inch (0.00mm)
+T3      21mil (0.541mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T4      34mil (0.864mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      35mil (0.889mm)                                           Round             18        PTH        0.00inch (0.00mm)
+T6      35mil (0.899mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T7      36mil (0.914mm)                                           Round             22        PTH        0.00inch (0.00mm)
+T8      40mil (1.021mm)                                           Round             80        PTH        0.00inch (0.00mm)
+T9      50mil (1.27mm)                                            Slot              3         PTH        0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T11     128mil (3.259mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T12     130mil (3.299mm)                                          Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              488
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change Component Designator: OldDesignator=J11 NewDesignator=J9
+Change Component Designator: OldDesignator=R57 NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C10 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C11 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C12 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C18 470pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C19 1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C20 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C21 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C28 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C30 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C31 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C37 4.7uF 10V
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component J7 USB0 OF ETH (OK)

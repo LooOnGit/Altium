@@ -1,0 +1,49 @@
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component *1 DB9
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component *2 120
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component B5 TLV70233DBVR
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component B12 TXS0108EPWRG4
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C23 10uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C24 10uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C26 approved sub OK
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C27 approved sub OK
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C31 18pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C33 10uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C35 4.7uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C36 4.7uF 10V
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C37 4.7uF 10V
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C39 27pF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C41 18p
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C50 10uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C51 4.7uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component C52 0.1uF
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component D2 RESD1CANYT116
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component D3 PMEG2005EGWX
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component J7 Jumper 3
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component J8 Jumper 3
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component LED5 LED SMD
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component LED6 LED SMD
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R6 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R7 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R15 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R17 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R18 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R21 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R26 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R27 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R28 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R29 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R30 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R31 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R32 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R33 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R34 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R35 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R36 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R37 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R43 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R45 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R46 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R47 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R48 Thick Film
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R50 RES_NL_0603
+Added Member To Class: ClassName=CAN_DEVELOP Member=Component R51 RES_NL_0603
