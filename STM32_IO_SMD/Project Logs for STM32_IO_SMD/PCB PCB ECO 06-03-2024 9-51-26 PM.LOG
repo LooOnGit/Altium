@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=24V_OUT Pin=R13-1
+Removed Pin From Net: NetName=24V_OUT Pin=R27-1
+Removed Pin From Net: NetName=24V_OUT Pin=R28-1
+Removed Pin From Net: NetName=24V_OUT Pin=R31-1
+Removed Pin From Net: NetName=24V_OUT Pin=R45-1
+Removed Pin From Net: NetName=24V_OUT Pin=R46-1
+Removed Pin From Net: NetName=24V_OUT Pin=R57-1
+Removed Pin From Net: NetName=24V_OUT Pin=R58-1
+Removed Pin From Net: NetName=24V_OUT Pin=R71-1
+Removed Pin From Net: NetName=24V_OUT Pin=R72-1
+Removed Pin From Net: NetName=24V_OUT Pin=R85-1
+Removed Pin From Net: NetName=24V_OUT Pin=R86-1
+Removed Member From Class: ClassName=schematic Member=R13
+Removed Member From Class: ClassName=schematic Member=R27
+Removed Member From Class: ClassName=schematic Member=R28
+Removed Member From Class: ClassName=schematic Member=R31
+Removed Member From Class: ClassName=schematic Member=R45
+Removed Member From Class: ClassName=schematic Member=R46
+Removed Member From Class: ClassName=schematic Member=R57
+Removed Member From Class: ClassName=schematic Member=R58
+Removed Member From Class: ClassName=schematic Member=R71
+Removed Member From Class: ClassName=schematic Member=R72
+Removed Member From Class: ClassName=schematic Member=R85
+Removed Member From Class: ClassName=schematic Member=R86
+Change Component Footprint: Designator=R9 Old Footprint=tro smd 1206 New Footprint=resistor_bar
+Change Component Footprint: Designator=R10 Old Footprint=tro smd 1206 New Footprint=resistor_bar
+Change Component Comment : Designator=R9 Old Comment=100K New Comment=1kOhm
+Change Component Comment : Designator=R10 Old Comment=100K New Comment=1kOhm
+Change component parameters: Designator = "R9" ("R9"); Footprint = "tro smd 1206"; UniqueID = "\SMFXGKJI" ("\SMFXGKJI")
+Change component parameters: Designator = "R10" ("R10"); Footprint = "tro smd 1206"; UniqueID = "\ODTFRSIQ" ("\ODTFRSIQ")
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=24VR1
+Added Pin To Net: NetName=24VR2 Pin=Q4-3
+Added Pin To Net: NetName=24VR2 Pin=R9-3
+Added Pin To Net: NetName=24VR2 Pin=R33-1
+Added Net: Name=24VR2
+Added Pin To Net: NetName=24VR3 Pin=Q7-3
+Added Pin To Net: NetName=24VR3 Pin=R9-4
+Added Pin To Net: NetName=24VR3 Pin=R48-1
+Added Net: Name=24VR3
+Added Pin To Net: NetName=24VR4 Pin=Q9-3
+Added Pin To Net: NetName=24VR4 Pin=R9-5
+Added Pin To Net: NetName=24VR4 Pin=R60-1
+Added Net: Name=24VR4
+Added Pin To Net: NetName=24VR5 Pin=Q11-3
+Added Pin To Net: NetName=24VR5 Pin=R9-6
+Added Pin To Net: NetName=24VR5 Pin=R76-1
+Added Net: Name=24VR5
+Added Pin To Net: NetName=24VR6 Pin=Q13-3
+Added Pin To Net: NetName=24VR6 Pin=R9-7
+Added Pin To Net: NetName=24VR6 Pin=R88-1
+Added Net: Name=24VR6
+Added Pin To Net: NetName=24VR7 Pin=Q2-3
+Added Pin To Net: NetName=24VR7 Pin=R9-8
+Added Pin To Net: NetName=24VR7 Pin=R19-1
+Added Net: Name=24VR7
+Added Pin To Net: NetName=24VR8 Pin=Q5-3
+Added Pin To Net: NetName=24VR8 Pin=R10-2
+Added Pin To Net: NetName=24VR8 Pin=R35-1
+Added Net: Name=24VR8
+Added Pin To Net: NetName=24VR9 Pin=Q8-3
+Added Pin To Net: NetName=24VR9 Pin=R10-3
+Added Pin To Net: NetName=24VR9 Pin=R50-1
+Added Net: Name=24VR9
+Added Pin To Net: NetName=24VR10 Pin=Q10-3
+Added Pin To Net: NetName=24VR10 Pin=R10-4
+Added Pin To Net: NetName=24VR10 Pin=R62-1
+Added Net: Name=24VR10
+Added Pin To Net: NetName=24VR11 Pin=Q12-3
+Added Pin To Net: NetName=24VR11 Pin=R10-5
+Added Pin To Net: NetName=24VR11 Pin=R78-1
+Added Net: Name=24VR11
+Added Pin To Net: NetName=24VR12 Pin=Q14-3
+Added Pin To Net: NetName=24VR12 Pin=R10-6
+Added Pin To Net: NetName=24VR12 Pin=R90-1
+Added Net: Name=24VR12
+Added Pin To Net: NetName=24VR13 Pin=Q3-3
+Added Pin To Net: NetName=24VR13 Pin=R10-7
+Added Pin To Net: NetName=24VR13 Pin=R21-1
+Added Net: Name=24VR13
+Added Pin To Net: NetName=24VR14 Pin=Q6-3
+Added Pin To Net: NetName=24VR14 Pin=R10-8
+Added Pin To Net: NetName=24VR14 Pin=R37-1
+Added Net: Name=24VR14
+Added Room: Name=schematic
