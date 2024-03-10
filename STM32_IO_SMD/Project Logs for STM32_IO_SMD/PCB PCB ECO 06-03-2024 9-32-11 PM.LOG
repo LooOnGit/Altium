@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Pin From Net: NetName=3V3 Pin=R12-2
+Removed Pin From Net: NetName=3V3 Pin=R25-2
+Removed Pin From Net: NetName=3V3 Pin=R26-2
+Removed Pin From Net: NetName=3V3 Pin=R41-2
+Removed Pin From Net: NetName=3V3 Pin=R42-2
+Removed Pin From Net: NetName=3V3 Pin=R53-2
+Removed Pin From Net: NetName=3V3 Pin=R54-2
+Removed Pin From Net: NetName=3V3 Pin=R63-2
+Removed Pin From Net: NetName=3V3 Pin=R64-2
+Removed Pin From Net: NetName=3V3 Pin=R69-2
+Removed Pin From Net: NetName=3V3 Pin=R70-2
+Removed Pin From Net: NetName=3V3 Pin=R81-2
+Removed Pin From Net: NetName=3V3 Pin=R82-2
+Removed Member From Class: ClassName=schematic Member=R25
+Removed Member From Class: ClassName=schematic Member=R26
+Removed Member From Class: ClassName=schematic Member=R41
+Removed Member From Class: ClassName=schematic Member=R42
+Removed Member From Class: ClassName=schematic Member=R53
+Removed Member From Class: ClassName=schematic Member=R54
+Removed Member From Class: ClassName=schematic Member=R63
+Removed Member From Class: ClassName=schematic Member=R64
+Removed Member From Class: ClassName=schematic Member=R69
+Removed Member From Class: ClassName=schematic Member=R70
+Removed Member From Class: ClassName=schematic Member=R81
+Removed Member From Class: ClassName=schematic Member=R82
+Change Component Footprint: Designator=R11 Old Footprint=tro smd 1206 New Footprint=resistor_bar
+Change Component Footprint: Designator=R12 Old Footprint=tro smd 1206 New Footprint=resistor_bar
+Change Component Comment : Designator=R11 Old Comment=1k New Comment=1kOhm
+Change Component Comment : Designator=R12 Old Comment=1k New Comment=1kOhm
+Change component parameters: Designator = "R11" ("R11"); Footprint = "tro smd 1206"; UniqueID = "\WCXBDMBX" ("\WCXBDMBX")
+Change component parameters: Designator = "R12" ("R12"); Footprint = "tro smd 1206"; UniqueID = "\IPCVAVHQ" ("\IPCVAVHQ")
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=3V3 Pin=R12-1
+Added Pin To Net: NetName=3v3R1 Pin=R11-2
+Added Pin To Net: NetName=3v3R1 Pin=U1-13
+Added Pin To Net: NetName=3v3R1 Pin=U2-4
+Added Net: Name=3v3R1
+Added Pin To Net: NetName=3v3R2 Pin=R11-3
+Added Pin To Net: NetName=3v3R2 Pin=U1-14
+Added Pin To Net: NetName=3v3R2 Pin=U7-4
+Added Net: Name=3v3R2
+Added Pin To Net: NetName=3v3R3 Pin=R11-4
+Added Pin To Net: NetName=3v3R3 Pin=U1-15
+Added Pin To Net: NetName=3v3R3 Pin=U12-4
+Added Net: Name=3v3R3
+Added Pin To Net: NetName=3v3R4 Pin=R11-5
+Added Pin To Net: NetName=3v3R4 Pin=U1-16
+Added Pin To Net: NetName=3v3R4 Pin=U16-4
+Added Net: Name=3v3R4
+Added Pin To Net: NetName=3v3R5 Pin=R11-6
+Added Pin To Net: NetName=3v3R5 Pin=U1-17
+Added Pin To Net: NetName=3v3R5 Pin=U20-4
+Added Net: Name=3v3R5
+Added Pin To Net: NetName=3v3R6 Pin=R11-7
+Added Pin To Net: NetName=3v3R6 Pin=U1-18
+Added Pin To Net: NetName=3v3R6 Pin=U22-4
+Added Net: Name=3v3R6
+Added Pin To Net: NetName=3v3R7 Pin=R11-8
+Added Pin To Net: NetName=3v3R7 Pin=U1-19
+Added Pin To Net: NetName=3v3R7 Pin=U26-4
+Added Net: Name=3v3R7
+Added Pin To Net: NetName=3v3R8 Pin=R12-2
+Added Pin To Net: NetName=3v3R8 Pin=U1-20
+Added Pin To Net: NetName=3v3R8 Pin=U3-4
+Added Net: Name=3v3R8
+Added Pin To Net: NetName=3v3R9 Pin=R12-3
+Added Pin To Net: NetName=3v3R9 Pin=U1-21
+Added Pin To Net: NetName=3v3R9 Pin=U8-4
+Added Net: Name=3v3R9
+Added Pin To Net: NetName=3v3R10 Pin=R12-4
+Added Pin To Net: NetName=3v3R10 Pin=U1-22
+Added Pin To Net: NetName=3v3R10 Pin=U13-4
+Added Net: Name=3v3R10
+Added Pin To Net: NetName=3v3R11 Pin=R12-5
+Added Pin To Net: NetName=3v3R11 Pin=U1-25
+Added Pin To Net: NetName=3v3R11 Pin=U17-4
+Added Net: Name=3v3R11
+Added Pin To Net: NetName=3v3R12 Pin=R12-6
+Added Pin To Net: NetName=3v3R12 Pin=U1-26
+Added Pin To Net: NetName=3v3R12 Pin=U21-4
+Added Net: Name=3v3R12
+Added Pin To Net: NetName=3v3R13 Pin=R12-7
+Added Pin To Net: NetName=3v3R13 Pin=U1-27
+Added Pin To Net: NetName=3v3R13 Pin=U23-4
+Added Net: Name=3v3R13
+Added Pin To Net: NetName=3v3R14 Pin=R12-8
+Added Pin To Net: NetName=3v3R14 Pin=U1-28
+Added Pin To Net: NetName=3v3R14 Pin=U27-4
+Added Net: Name=3v3R14
+Added Room: Name=schematic
