@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BT1 Pin=U3-13
+Change Component Description : Designator=U3 Old Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7) New Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7)
+
+Added Pin To Net: NetName=BT1 Pin=U3-40
+Added Room: Name=Sheet1
